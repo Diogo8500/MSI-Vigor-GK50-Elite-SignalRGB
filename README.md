@@ -4,6 +4,7 @@ A [SignalRGB](https://signalrgb.com) plugin that controls every key of the **MSI
 
 ## Status
 - Tested on an ISO (Portuguese) GK50 Elite with firmware `0x0120`. Every key lights, with correct labels and positions.
+- Ran for 5+ hours with no issues.
 - ANSI (US) boards are untested. Their keys around Enter, `\` and left Shift probably map to different LEDs.
 - This is not part of SignalRGB's official plugins yet.
 
