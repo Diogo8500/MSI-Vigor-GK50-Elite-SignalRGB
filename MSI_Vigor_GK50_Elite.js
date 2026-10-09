@@ -1,7 +1,7 @@
 export function Name() { return "MSI Vigor GK50 Elite"; }
 export function VendorId() { return 0x0DB0; }
 export function ProductId() { return [0x0B5B]; }
-export function Publisher() { return "Diogo"; }
+export function Publisher() { return "Diogo8500"; }
 export function Size() { return [21, 6]; }
 export function DeviceType() { return "keyboard"; }
 export function Validate(endpoint) { return endpoint.interface === 1; }
